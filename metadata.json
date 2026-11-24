@@ -1,0 +1,8 @@
+{
+  "name": "Simulasi CBT IPA Kelas 7",
+  "description": "Simulasi ujian interaktif berbasis komputer (CBT) mata pelajaran IPA Kelas 7 SMP Semester Ganjil Kurikulum Merdeka dengan 30 soal lengkap, ilustrasi alat ukur presisi, dan pembahasan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
